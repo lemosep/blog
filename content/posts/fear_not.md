@@ -5,7 +5,7 @@ description = "A little insight on impostor syndrome."
 tags = [
     "self-developement",
 ]
-draft = true
+draft = false
 +++
 
 It has been 4 months since I've quit my internship to invest time studying for career growth. During this time, I've been strongly humbled by attempting to learn low-level programming all by myself. And today, I want to talk a little about that learning pain that we may encounter along the way, and how to deal with it!
