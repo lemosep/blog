@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'lemosep'
-theme = 'risotto'
+theme = "risotto"
 author = "Eduardo L. Paschoalini"
 paginate = 4
 defaultContentLanguage = "en"
