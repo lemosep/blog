@@ -1,0 +1,62 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'lemosep'
+theme = 'risotto'
+author = "Eduardo L. Paschoalini"
+paginate = 4
+defaultContentLanguage = "en"
+enableInlineShortcodes = true
+
+
+
+sectionPagesMenu = "main"
+
+[params]
+    noindex = false
+
+[params.theme]
+    palette = "gruvbox-light"
+
+[params.about]
+    title = "Eduardo Paschoalini"
+    description = "Computer Science Undergraduate & Kernel Researcher"
+    logo = "🏔️"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:eduardolemosep@gmail.com"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/lemosep"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/eduardo-lemos-paschoalini/"
+
+[menu]
+    [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup]
+
+  # Table of contents
+  # Add toc = true to content front matter to enable
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = true
