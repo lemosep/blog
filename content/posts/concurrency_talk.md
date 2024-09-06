@@ -8,7 +8,6 @@ tags = [
     "Multi-threading",
     "Operating Systems",
 ]
-draft = true
 +++
 
 When working with multi-threaded programs, concurrency issues can lead do **undefined behaviour** and unpredictable results. If you've ever encountered strange behaviour in your programs e.g. a shared counter not reflecting the expected value, you might stick to the end of this post! Here, I'll dive into the common pitfalls of concurrency.
