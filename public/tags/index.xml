@@ -6,8 +6,43 @@
     <description>Recent content in Tags on lemosep</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Aug 2024 20:56:00 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 09:54:48 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Concurrency</title>
+      <link>http://localhost:1313/tags/concurrency/</link>
+      <pubDate>Fri, 06 Sep 2024 09:54:48 -0300</pubDate>
+      <guid>http://localhost:1313/tags/concurrency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Index</title>
+      <link>http://localhost:1313/tags/index/</link>
+      <pubDate>Fri, 06 Sep 2024 09:54:48 -0300</pubDate>
+      <guid>http://localhost:1313/tags/index/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multi-Threading</title>
+      <link>http://localhost:1313/tags/multi-threading/</link>
+      <pubDate>Fri, 06 Sep 2024 09:54:48 -0300</pubDate>
+      <guid>http://localhost:1313/tags/multi-threading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Operating Systems</title>
+      <link>http://localhost:1313/tags/operating-systems/</link>
+      <pubDate>Fri, 06 Sep 2024 09:54:48 -0300</pubDate>
+      <guid>http://localhost:1313/tags/operating-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>http://localhost:1313/tags/rust/</link>
+      <pubDate>Fri, 06 Sep 2024 09:54:48 -0300</pubDate>
+      <guid>http://localhost:1313/tags/rust/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Self-Developement</title>
       <link>http://localhost:1313/tags/self-developement/</link>

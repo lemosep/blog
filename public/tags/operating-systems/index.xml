@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on lemosep</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on lemosep</description>
+    <title>Operating Systems on lemosep</title>
+    <link>http://localhost:1313/tags/operating-systems/</link>
+    <description>Recent content in Operating Systems on lemosep</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Sep 2024 09:54:48 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/operating-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Concurrency</title>
       <link>http://localhost:1313/posts/wymtcmf/</link>
       <pubDate>Fri, 06 Sep 2024 09:54:48 -0300</pubDate>
       <guid>http://localhost:1313/posts/wymtcmf/</guid>
       <description>When working with multi-threaded programs, concurrency issues can lead do undefined behaviour and unpredictable results. If you&amp;rsquo;ve ever encountered strange behaviour in your programs e.g. a shared counter not reflecting the expected value, you might stick to the end of this post! Here, I&amp;rsquo;ll dive into the common pitfalls of concurrency.&#xA;What&amp;rsquo;s the Problem? Concurrency arises when multiple threads execute simutaneously and interact with shared data. A core issue in multi-threaded programming is how threads access and modify shared variables.</description>
-    </item>
-    <item>
-      <title>Fear not!</title>
-      <link>http://localhost:1313/posts/fear_not/</link>
-      <pubDate>Mon, 12 Aug 2024 20:56:00 -0300</pubDate>
-      <guid>http://localhost:1313/posts/fear_not/</guid>
-      <description>It has been 4 months since I&amp;rsquo;ve quit my internship to invest time studying for career growth. During this time, I&amp;rsquo;ve been strongly humbled by attempting to learn low-level programming all by myself. And today, I want to talk a little about that learning pain that we may encounter along the way, and how to deal with it!&#xA;Whenever we start anything—whether it&amp;rsquo;s a morning walk, meeting with a friend, or learning programming language theory—we&amp;rsquo;ll always think about the question: &amp;ldquo;How long will this take?</description>
     </item>
   </channel>
 </rss>

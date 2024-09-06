@@ -15,7 +15,7 @@ sectionPagesMenu = "main"
     noindex = false
 
 [params.theme]
-    palette = "gruvbox-light"
+    palette = "dracula"
 
 [params.about]
     title = "Eduardo Paschoalini"

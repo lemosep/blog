@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/concurrency/</loc>
+    <lastmod>2024-09-06T09:54:48-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-06T09:54:48-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/index/</loc>
+    <lastmod>2024-09-06T09:54:48-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/multi-threading/</loc>
+    <lastmod>2024-09-06T09:54:48-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/operating-systems/</loc>
+    <lastmod>2024-09-06T09:54:48-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-08-12T20:56:00-03:00</lastmod>
+    <lastmod>2024-09-06T09:54:48-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rust/</loc>
+    <lastmod>2024-09-06T09:54:48-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-09-06T09:54:48-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/wymtcmf/</loc>
+    <lastmod>2024-09-06T09:54:48-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/fear_not/</loc>
     <lastmod>2024-08-12T20:56:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-12T20:56:00-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/self-developement/</loc>
-    <lastmod>2024-08-12T20:56:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-08-12T20:56:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
